@@ -6,7 +6,7 @@
     "visibility"
 ],
   "type": "flarum-extension",
-  "license": "GPL",
+  "license": "GPL-3.0-or-later",
   "support": {
     "issues": "https://github.com/huseyinfiliz/show-password/issues",
     "source": "https://github.com/huseyinfiliz/show-password",
