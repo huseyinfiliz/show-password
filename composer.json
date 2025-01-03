@@ -1,0 +1,41 @@
+{
+  "name": "huseyinfiliz/show-password",
+  "description": "Toggle password visibility.",
+  "keywords": [
+    "password",
+    "visibility"
+],
+  "type": "flarum-extension",
+  "license": "GPL",
+  "support": {
+    "issues": "https://github.com/huseyinfiliz/show-password/issues",
+    "source": "https://github.com/huseyinfiliz/show-password",
+    "forum": "https://discuss.flarum.org/d/"
+  },
+  "homepage": "https://huseyinfiliz.com.tr/sosyal",
+  "require": {
+    "flarum/core": "^1.2.0"
+  },
+  "authors": [
+    {
+      "name": "Huseyin Filiz",
+      "role": "Developer",
+      "email": "huseyinfiliz@pm.me"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "huseyinfiliz\\ShowPassword\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Show Password",
+      "icon": {
+        "name": "fas fa-eye",
+        "backgroundColor": "#3498db",
+        "color": "#fff"
+      }
+    }
+  }
+}
