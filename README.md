@@ -23,6 +23,6 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/huseyinfiliz/show-password)
 - [GitHub](https://github.com/huseyinfiliz/show-password)
-- [Discuss](https://discuss.flarum.org/d/)
+- [Discuss](https://discuss.flarum.org/d/36775)
 
 An extension by [Huseyin Filiz](https://github.com/huseyinfiliz)
