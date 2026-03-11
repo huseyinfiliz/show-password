@@ -1,0 +1,12 @@
+php:
+    preset: laravel
+
+    disabled:
+        - unused_imports
+
+    finder:
+        not-name:
+            - "*.blade.php"
+
+js: true
+css: true
