@@ -7,6 +7,5 @@ parameters:
         - extend.php
     excludePaths:
         - *.blade.php
-    checkMissingIterableValueType: false
     databaseMigrationsPath:
         - migrations
