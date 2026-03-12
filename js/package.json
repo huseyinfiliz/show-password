@@ -15,7 +15,8 @@
   "scripts": {
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production",
-    "format": "prettier --write src",
-    "format-check": "prettier --check src"
+    "analyze": "npx -p @flarum/cli flarum-cli audit infra",
+    "format": "prettier --write forum.js",
+    "format-check": "prettier --check forum.js"
   }
 }
