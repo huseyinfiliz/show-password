@@ -12,8 +12,8 @@ A [Flarum](http://flarum.org) extension. Toggle password visibility on login and
 
 ## Requirements
 
-- Flarum `^1.8.0`
-- PHP `^8.1`
+- Flarum `^2.0`
+- PHP `^8.2`
 
 ## Installation
 
